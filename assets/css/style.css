@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: paleturquoise;
+}
+
+
+#container{
+    width: 80%;
+    margin: 0%px auto;
+    box-shadow: 0px 0px 10px gray  ;
+}
+
+#header{
+    height: 140px;
+    background-color: lightslategray;
+}
+
+#logo{
+    padding: 20px;
+    margin-left: 20px;
+    float: left;
+}
+
+#logo img{
+    float: left;
+    height: 100px;
+}
+
+#logo a{
+    float: left;
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    color: cornflowerblue;
+}
